@@ -1,5 +1,6 @@
 package com.example.product_service.entity;
 
+import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -18,9 +19,7 @@ public class Product {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private long id;
     private String name;
     private Double price;
-
-
 }
