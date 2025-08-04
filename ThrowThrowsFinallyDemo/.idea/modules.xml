@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AbstractClass/AbstractClass.iml" filepath="$PROJECT_DIR$/../AbstractClass/AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/../ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConcurrentHashMapEg/ConcurrentHashMapEg.iml" filepath="$PROJECT_DIR$/../ConcurrentHashMapEg/ConcurrentHashMapEg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CopyOnWriteArrayListEg/CopyOnWriteArrayListEg.iml" filepath="$PROJECT_DIR$/../CopyOnWriteArrayListEg/CopyOnWriteArrayListEg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CustomExceptionDemo/CustomExceptionDemo.iml" filepath="$PROJECT_DIR$/../CustomExceptionDemo/CustomExceptionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExceptionDemo/ExceptionDemo.iml" filepath="$PROJECT_DIR$/../ExceptionDemo/ExceptionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FinalExample/FinalExample.iml" filepath="$PROJECT_DIR$/../FinalExample/FinalExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FunctionalInterfaceWithReturn/FunctionalInterfaceWithReturn.iml" filepath="$PROJECT_DIR$/../FunctionalInterfaceWithReturn/FunctionalInterfaceWithReturn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FunctionalInterfacewithoutReturn/FunctionalInterfacewithoutReturn.iml" filepath="$PROJECT_DIR$/../FunctionalInterfacewithoutReturn/FunctionalInterfacewithoutReturn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HashSetEg/HashSetEg.iml" filepath="$PROJECT_DIR$/../HashSetEg/HashSetEg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HashmapEg/HashmapEg.iml" filepath="$PROJECT_DIR$/../HashmapEg/HashmapEg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterfaceExample/InterfaceExample.iml" filepath="$PROJECT_DIR$/../InterfaceExample/InterfaceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/../StreamApi/StreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThrowThrowsFinallyDemo.iml" filepath="$PROJECT_DIR$/ThrowThrowsFinallyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TreeMapEg/TreeMapEg.iml" filepath="$PROJECT_DIR$/../TreeMapEg/TreeMapEg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TreeSetEg/TreeSetEg.iml" filepath="$PROJECT_DIR$/../TreeSetEg/TreeSetEg.iml" />
+    </modules>
+  </component>
+</project>

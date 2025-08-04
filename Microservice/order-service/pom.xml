@@ -1,0 +1,58 @@
+<dependencies>
+	<!-- Reactive R2DBC for MySQL -->
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-data-r2dbc</artifactId>
+	</dependency>
+	<dependency>
+		<groupId>io.asyncer</groupId>
+		<artifactId>r2dbc-mysql</artifactId>
+		<version>1.1.2</version>
+	</dependency>
+
+	<!-- WebFlux -->
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-webflux</artifactId>
+	</dependency>
+
+	<!-- Eureka Client -->
+	<dependency>
+		<groupId>org.springframework.cloud</groupId>
+		<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+	</dependency>
+
+	<!-- Swagger for WebFlux -->
+	<dependency>
+		<groupId>org.springdoc</groupId>
+		<artifactId>springdoc-openapi-starter-webflux-ui</artifactId>
+		<version>2.6.0</version>
+	</dependency>
+
+	<!-- Lombok -->
+	<dependency>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<optional>true</optional>
+	</dependency>
+
+	<!-- Devtools -->
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-devtools</artifactId>
+		<scope>runtime</scope>
+		<optional>true</optional>
+	</dependency>
+
+	<!-- Testing -->
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-test</artifactId>
+		<scope>test</scope>
+	</dependency>
+	<dependency>
+		<groupId>io.projectreactor</groupId>
+		<artifactId>reactor-test</artifactId>
+		<scope>test</scope>
+	</dependency>
+</dependencies>

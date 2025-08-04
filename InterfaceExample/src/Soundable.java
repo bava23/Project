@@ -1,0 +1,3 @@
+interface Soundable {
+    void makeSound();
+}

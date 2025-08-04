@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AbstractClass/AbstractClass.iml" filepath="$PROJECT_DIR$/../AbstractClass/AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalInterfacewithoutReturn.iml" filepath="$PROJECT_DIR$/FunctionalInterfacewithoutReturn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterfaceExample/InterfaceExample.iml" filepath="$PROJECT_DIR$/../InterfaceExample/InterfaceExample.iml" />
+    </modules>
+  </component>
+</project>
